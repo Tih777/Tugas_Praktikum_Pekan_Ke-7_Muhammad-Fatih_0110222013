@@ -1,0 +1,31 @@
+.box1{
+    background-color: #06062b;
+    width: 20%;
+    height: 600px;
+    margin-top: 2%;
+}
+.box2{
+    background-color: darkblue;
+    width: 20%;
+    height: 600px;
+    margin-left: 5%;
+    margin-top: 8%;
+}
+.box3{
+    background-color: blue;
+    width: 20%;
+    height: 600px;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.box4{
+    background-color: aqua;
+    width: 20%;
+    height: 600px;
+    margin-left: 5%;
+    margin-top: 8%;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
